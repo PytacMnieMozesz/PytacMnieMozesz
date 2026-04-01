@@ -14,7 +14,6 @@
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
@@ -24,6 +23,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PytacMnieMozesz&theme=tokyonight&hide_border=true&background=0d1117&ring=005eff&fire=005eff&currStreakNum=ffffff)](https://git.io/streak-stats)
 
-[![PytacMnieMozesz's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PytacMnieMozesz&bg_color=0d1117&color=005eff&line=005eff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![PytacMnieMozesz's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PytacMnieMozesz&bg_color=082c1e&color=102525&line=005eff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
